@@ -19,7 +19,7 @@ public class HelloWorld {
 
         // with Java 8, we can do this, no need to check the log level
 
-        for(int i = 0;i <= 10000000;i++)
+        for(int i = 0;i <= 10000;i++)
         {
           // test rolling file
           logger.debug("Invocamos a getNumber() : {}",getNumber(i));
