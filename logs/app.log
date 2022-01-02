@@ -4213,3 +4213,15 @@
 2022-01-02 19:28:06,838 DEBUG c.m.HelloWorld [main] Invocamos a getNumber() : 9998
 2022-01-02 19:28:06,838 DEBUG c.m.HelloWorld [main] Invocamos a getNumber() : 9999
 2022-01-02 19:28:06,838 DEBUG c.m.HelloWorld [main] Invocamos a getNumber() : 10000
+2022-01-02 19:29:27,283 DEBUG c.m.HelloWorld [main] Hello World from Log4j 2
+2022-01-02 19:29:27,286 DEBUG c.m.HelloWorld [main] Invocamos a getNumber() : 0
+2022-01-02 19:29:27,286 DEBUG c.m.HelloWorld [main] Invocamos a getNumber() : 1
+2022-01-02 19:29:27,286 DEBUG c.m.HelloWorld [main] Invocamos a getNumber() : 2
+2022-01-02 19:29:27,286 DEBUG c.m.HelloWorld [main] Invocamos a getNumber() : 3
+2022-01-02 19:29:27,286 DEBUG c.m.HelloWorld [main] Invocamos a getNumber() : 4
+2022-01-02 19:29:27,286 DEBUG c.m.HelloWorld [main] Invocamos a getNumber() : 5
+2022-01-02 19:29:27,286 DEBUG c.m.HelloWorld [main] Invocamos a getNumber() : 6
+2022-01-02 19:29:27,286 DEBUG c.m.HelloWorld [main] Invocamos a getNumber() : 7
+2022-01-02 19:29:27,286 DEBUG c.m.HelloWorld [main] Invocamos a getNumber() : 8
+2022-01-02 19:29:27,287 DEBUG c.m.HelloWorld [main] Invocamos a getNumber() : 9
+2022-01-02 19:29:27,287 DEBUG c.m.HelloWorld [main] Invocamos a getNumber() : 10
