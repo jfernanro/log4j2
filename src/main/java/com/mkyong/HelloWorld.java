@@ -10,7 +10,7 @@ public class HelloWorld {
 
     public static void main(String[] args) {
 
-        logger.debug("Hello from Log4j 2");
+      logger.debug("Hello World from Log4j 2");
 
         // in old days, we need to check the log level log to increase performance
         /*if (logger.isDebugEnabled()) {
