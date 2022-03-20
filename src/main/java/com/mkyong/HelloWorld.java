@@ -11,7 +11,6 @@ public class HelloWorld
 
   public static void main(String[] args)
   {
-
     logger.debug("Hello World from Log4j 2");
 
     // in old days, we need to check the log level log to increase performance
@@ -32,6 +31,7 @@ public class HelloWorld
 
   static int getNumber(int n)
   {
+    logger.info("getNumber()");
     return n * 1;
   }
 
