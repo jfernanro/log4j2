@@ -21,7 +21,7 @@
     <Loggers>
 
         <!--  asynchronous loggers -->
-        <AsyncLogger name="com.mkyong" level="debug" additivity="false">
+        <AsyncLogger name="com.dual.trazas" level="debug" additivity="false">
             <AppenderRef ref="LogToRollingRandomAccessFile"/>
             <AppenderRef ref="LogToConsole"/>
         </AsyncLogger>

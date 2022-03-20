@@ -17,7 +17,7 @@
 
     </Appenders>
     <Loggers>
-        <Logger name="com.mkyong" level="error" additivity="false">
+        <Logger name="com.dual.trazas" level="error" additivity="false">
             <AppenderRef ref="LogToMail"/>
             <AppenderRef ref="LogToConsole"/>
         </Logger>
